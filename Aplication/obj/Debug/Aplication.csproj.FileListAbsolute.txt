@@ -1,0 +1,13 @@
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\bin\Debug\Aplication.exe.config
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\bin\Debug\Aplication.exe
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\bin\Debug\Aplication.pdb
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.Form1.resources
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.Properties.Resources.resources
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.csproj.CopyComplete
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.exe
+C:\Users\Vlad\Desktop\stuff\Aplication\Aplication\obj\Debug\Aplication.pdb
