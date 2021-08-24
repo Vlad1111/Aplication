@@ -30,7 +30,7 @@ namespace Aplication.Units.Controller
         public Exchange getVlaue2()
         {
             string rez = client.getResoult(Providers.p2);
-            return Exchange.parseJson<CurrencyLayer>(rez);
+            return Exchange.parseJson<OpenExchangerates>(rez);
         }
     }
 }

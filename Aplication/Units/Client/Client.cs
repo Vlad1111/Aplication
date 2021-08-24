@@ -40,9 +40,6 @@ namespace Aplication.Units.Client
         {
             var response = client.GetStringAsync(query);
             var responseString = response.Result;
-            //Console.WriteLine("RESPONSE:");
-            //Console.WriteLine(responseString);
-            //Console.WriteLine();
             return responseString;
         }
     }

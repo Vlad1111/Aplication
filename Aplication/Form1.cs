@@ -44,7 +44,7 @@ namespace Aplication
                 backgroundWorker.ReportProgress(0);
                 var exchange1 = controller.getVlaue1();
                 backgroundWorker.ReportProgress(1);
-                var exchange2 = controller.getVlaue1();
+                var exchange2 = controller.getVlaue2();
                 backgroundWorker.ReportProgress(2);
                 double value1 = exchange1.getExchange();
                 backgroundWorker.ReportProgress(3);
@@ -55,7 +55,7 @@ namespace Aplication
                 if (ConfigurationManager.AppSettings["PrintMode"] == "Console")
                     Console.WriteLine("Value: " + value);
                 else MessageBox.Show("Value: " + value);
-                backgroundWorker.ReportProgress(5);
+                backgroundWorker.ReportProgress(0);
             }
             catch (Exception ex)
             {
